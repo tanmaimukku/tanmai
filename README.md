@@ -1,5 +1,2 @@
-# tanmai
-My name is Tanmai....
-I am Tanmai...
-My name is Tanmai and my roll no is 20171145
+
 
